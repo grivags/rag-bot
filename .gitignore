@@ -1,0 +1,14 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+
+# App
+chroma_db/
+.env
+.env.*
+*.sqlite
+
+# Editors
+.vscode/
+.idea/
