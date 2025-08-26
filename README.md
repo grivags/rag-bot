@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue.svg"></a>
+  <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.111-009688.svg"></a>
+  <a href="https://python.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-0.2.x-1f6feb.svg"></a>
+  <a href="https://www.chromadb.org/"><img alt="Chroma" src="https://img.shields.io/badge/Vector%20DB-Chroma-6f42c1.svg"></a>
+  <a href="https://openrouter.ai/"><img alt="OpenRouter" src="https://img.shields.io/badge/LLM-Mistral%207B%20Instruct%20(Free)-ff69b4.svg"></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey.svg"></a>
+</p>
+
 # RAG Bot — FastAPI + LangChain + Chroma + Mistral 7B (OpenRouter)
 
 Mini RAG end-to-end demo project:
